@@ -14,7 +14,6 @@
 .about-subtitle-ru,
 .about-subtitle-en {
     font-size: 18px;
-    /* font-style: normal; */
     font-weight: 500;
     margin: 0 auto 15px;
     max-width: 780px;
@@ -38,7 +37,6 @@
 }
 
 @media (max-width: 480px) {
-
     .about-subtitle-ru,
     .about-subtitle-en,
     .about-description-ru,
@@ -46,5 +44,3 @@
         font-size: 14px;
     }
 }
-
-/* font-style: normal; */
